@@ -1,0 +1,4 @@
+PORT=3000
+jwtSecret=!@#$%^&*($%^&*())apps@321+_)(*&^%$)
+NODE_ENV=development
+mongoURL=
